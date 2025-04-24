@@ -22,7 +22,7 @@
     📫 **Email:** [Ryan.problemsolver97@gmail.com]
       |  
     🐦 **Linkedin:** <a href="https://www.linkedin.com/in/ryanhuynh1302/" target="_blank">@[ryanhuynh1302]</a>
-      |
+      
   </p>
 
   <br/>
