@@ -1,10 +1,5 @@
 <div align="center">
 
-  <img src="[your-banner-image-url.png]" alt="Your Name - Your Title Banner"/>
-
-  <br/>
-  <br/>
-
   ### Hi, I'm Ryan! 👋
 
   <p>A Passionate Problem Solver and Data Analyst trying to uncover truth from data and building something impactful</p>
