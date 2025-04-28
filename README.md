@@ -12,11 +12,11 @@
 
   <!-- ** SECTION FOR LINKS - Replace all placeholders! ** -->
   <p>
-    💼 **Portfolio:** <a href="https://[your-portfolio-url.com]" target="_blank"> [your-portfolio-url.com]</a>
+    💼 **Portfolio:** <a href="https://github.com/RyanSolving" target="_blank"> @RyanSolving</a>
       |  
     📫 **Email:** [Ryan.problemsolver97@gmail.com]
       |  
-    🐦 **Linkedin:** <a href="https://www.linkedin.com/in/ryanhuynh1302/" target="_blank">@[ryanhuynh1302]</a>
+    🐦 **Linkedin:** <a href="https://www.linkedin.com/in/ryanhuynh1302/" target="_blank">@ryanhuynh1302</a>
       
   </p>
 
